@@ -13,10 +13,12 @@ This program takes a single command-line argument (the key), prompts the user fo
 ## 💻 How to Run
 
 1. **Compile the program:**
+   ```markdown
    clang -o caesar caesar.c -lcs50
 2. **Run with a numeric key:**
+   ```markdown
    ./caesar 2
-3. **Enter plaintext when prompted:**
+4. **Enter plaintext when prompted:**
    ```less
    Plaintext: HELLO
    Ciphertext: JGNNQ
