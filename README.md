@@ -27,6 +27,8 @@ $ ./caesar 5
 Plaintext: Hello, CS50!
 Ciphertext: Mjqqt, HX50!
 
+```
+
 ## 🧠 Concepts Practiced
 
 - Command-line arguments
